@@ -44,11 +44,9 @@ $conn->close();
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <form action="" method="post">
                             <button type="submit" class="btn btn-primary">
                                 <a class="nav-link" href="logout.php" style="color: white;">Logout</a>
                             </button>
-                        </form>
                     </li>
                 </ul>
             </div>
